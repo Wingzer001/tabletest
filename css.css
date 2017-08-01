@@ -2,15 +2,6 @@ html {
   font-family: sans-serif;
 }
 
-header {
-    display: block;
-}
-
-h1 {
-    color: navy;
-    margin-left: 20px;
-}
-
 table {
   border-collapse: collapse;
   border: 2px solid rgb(200,200,200);
